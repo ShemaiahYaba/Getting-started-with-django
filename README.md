@@ -24,33 +24,39 @@ This project represents my exploration into the world of web development with Dj
 ## 📦 Installation
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/yourusername/django-blog.git
    cd django-blog
    ```
 
 2. **Set up a virtual environment** (recommended)
+
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
 3. **Install dependencies**
+
    ```bash
    pip install -r requirements.txt
    ```
 
 4. **Run migrations**
+
    ```bash
    python manage.py migrate
    ```
 
 5. **Create a superuser** (optional, for admin access)
+
    ```bash
    python manage.py createsuperuser
    ```
 
 6. **Run the development server**
+
    ```bash
    python manage.py runserver
    ```
@@ -109,5 +115,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Built with ❤️ and Django by [Your Name]  
-Connect with me on [LinkedIn/Twitter/GitHub]
+Built with ❤️ and Django by [Shemaiah Yaba-Shiaka]  
+Connect with me on [Meet Yabashiaka](https://meet-yabashiaka.vercel.app)
